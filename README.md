@@ -1,4 +1,5 @@
-    # 🎬 Plextortion
+![image](https://github.com/user-attachments/assets/b15993a2-0aed-4332-9036-cb0ec12e07b5)
+
 
 **Hold your Plex libraries hostage until users watch a specific movie.**
 
