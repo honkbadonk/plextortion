@@ -6,6 +6,7 @@
 Someone on your server keeps ignoring your movie recommendations? Plextortion lets you lock their access to specific libraries until they watch a percentage of a movie you choose. They'll see a ransom message every time they try to watch something from the locked library.
 
 ---
+![image](https://github.com/user-attachments/assets/dda0cd4d-d105-4d59-9385-438a28ba2370)
 
 ## ✨ Features
 
