@@ -1,4 +1,4 @@
-    # 🎬 Plextortion
+# 🎬 Plextortion
 
 **Hold your Plex libraries hostage until users watch a specific movie.**
 
@@ -175,6 +175,7 @@ MIT License - do whatever you want with it.
 ---
 
 ## 🍺 Support
+
 If Plextortion made you laugh or improved your friendships through coercion, consider starring the repo!
-https://github.com/sponsors/honkbadonk
+
 Built with ❤️ and spite.

@@ -1,0 +1,4 @@
+flask>=2.0.0
+plexapi>=4.13.0
+requests>=2.25.0
+urllib3>=1.26.0
