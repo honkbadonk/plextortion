@@ -2,6 +2,7 @@
 
 
 **Hold your Plex libraries hostage until users watch a specific movie.**
+Inflict petty, meaningless cruelty on certain users to ensure they remember who’s the boss.
 
 Someone on your server keeps ignoring your movie recommendations? Plextortion lets you lock their access to specific libraries until they watch a percentage of a movie you choose. They'll see a ransom message every time they try to watch something from the locked library.
 
